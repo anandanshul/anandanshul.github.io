@@ -38,6 +38,6 @@ I enjoy building clean, scalable solutions and breaking down complex problems.
 ### 📖 BookBot
 - `Python`  
 
-A **Python** program that analyzes novels and prints a statistical report of the word and character usage found within.
+A Python-based command-line tool that analyzes novels and outputs a statistical report on word frequency and character usage.
 
 
