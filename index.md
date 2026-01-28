@@ -13,7 +13,7 @@ I enjoy building clean, scalable solutions and breaking down complex problems.
 ## 🚀 About Me
 
 - Strong foundation in **Data Structures & Algorithms**
-- Experience with **Python, Go, JavaScript**
+- Experience with **Python & Go**
 - Interested in **systems design, distributed systems, and AI/ML**
 - Vice President, **Axiom – Philosophy Society**
 - Assistant Director, **Drishyam – Film Making Society**
@@ -23,21 +23,20 @@ I enjoy building clean, scalable solutions and breaking down complex problems.
 ## 🛠️ Technical Skills
 
 **Languages:**  
-`Python` · `Go` · `JavaScript` · `SQL`
+`Python` · `Go` · `SQL`
 
 **Tools & Frameworks:**  
-Git · Linux · REST APIs · Pygame · Jekyll · Markdown
+`Git` · `Linux`
 
 **Concepts:**  
-Data Structures · Algorithms · Databases · OS · Networking
+`Data Structures` · `Algorithms` · `Databases` · `OS` · `Networking`
 
 ---
 
-## 📂 Selected Projects
+## 📂 Projects
 
-### 🎮 Pygame Project (WSL)
-A game built using **Pygame** inside **WSL**, focusing on performance and clean architecture.
+### 🎮 BookBot
+- `Python`
+A **Python** program that analyzes novels and prints a statistical report of the word and character usage found within.
 
-```python
-def update_player(player, delta):
-    player.x += player.velocity * delta
+
