@@ -40,5 +40,5 @@ I enjoy building clean, scalable solutions and breaking down complex problems.
 
 A Python-based command-line tool that analyzes novels and outputs a statistical report on word frequency and character usage.
 
-<video controls src="assets/BookBot.mp4" title="bookbot-demo" width="640"></video>
+<video controls src="assets/BookBot.mp4" title="bookbot-demo" width="540"></video>
 
