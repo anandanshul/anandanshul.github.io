@@ -29,14 +29,15 @@ I enjoy building clean, scalable solutions and breaking down complex problems.
 `Git` · `Linux`
 
 **Concepts:**  
-`Data Structures` · `Algorithms` · `Databases` · `OS` · `Networking`
+`Operating Systems` · `Databases` · `Networking` · `Data Structures & Algorithms` · `Object Oriented Programming` · `Functional Programming`
 
 ---
 
 ## 📂 Projects
 
-### 🎮 BookBot
-- `Python`
+### 📖 BookBot
+- `Python`  
+
 A **Python** program that analyzes novels and prints a statistical report of the word and character usage found within.
 
 
